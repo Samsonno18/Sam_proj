@@ -1,0 +1,51 @@
+Machine_ID,Failure_Date,Failure_Type,Downtime_Hours,Repair_Time (hours),Issue_Resolved_By,Comments
+CNC006,18-08-2024,Motor Failure,6,4,Technician F,Replaced motor
+CNC007,22-08-2024,Overheating,4,3,Technician G,Adjusted cooling system
+CNC008,12-08-2024,Vibration Issue,5,2,Technician H,Tightened bearings
+CNC009,30-07-2024,Electrical Failure,7,5,Technician I,Rewired machine
+CNC010,04-08-2024,Spindle Breakdown,8,6,Technician J,Replaced spindle motor
+CNC011,16-08-2024,Motor Failure,6,4,Technician K,Replaced motor
+CNC012,24-08-2024,Overheating,4,3,Technician L,Adjusted cooling system
+CNC013,14-08-2024,Vibration Issue,5,2,Technician M,Tightened bearings
+CNC014,29-07-2024,Electrical Failure,7,5,Technician N,Rewired machine
+CNC015,03-08-2024,Spindle Breakdown,8,6,Technician O,Replaced spindle motor
+CNC016,17-08-2024,Motor Failure,6,4,Technician P,Replaced motor
+CNC017,25-08-2024,Overheating,4,3,Technician Q,Adjusted cooling system
+CNC018,13-08-2024,Vibration Issue,5,2,Technician R,Tightened bearings
+CNC019,31-07-2024,Electrical Failure,7,5,Technician S,Rewired machine
+CNC020,05-08-2024,Spindle Breakdown,8,6,Technician T,Replaced spindle motor
+CNC021,19-08-2024,Motor Failure,6,4,Technician U,Replaced motor
+CNC022,23-08-2024,Overheating,4,3,Technician V,Adjusted cooling system
+CNC023,11-08-2024,Vibration Issue,5,2,Technician W,Tightened bearings
+CNC024,27-07-2024,Electrical Failure,7,5,Technician X,Rewired machine
+CNC025,01-08-2024,Spindle Breakdown,8,6,Technician Y,Replaced spindle motor
+CNC026,21-08-2024,Motor Failure,6,4,Technician Z,Replaced motor
+CNC027,26-08-2024,Overheating,4,3,Technician A,Adjusted cooling system
+CNC028,15-08-2024,Vibration Issue,5,2,Technician B,Tightened bearings
+CNC029,28-07-2024,Electrical Failure,7,5,Technician C,Rewired machine
+CNC030,02-08-2024,Spindle Breakdown,8,6,Technician D,Replaced spindle motor
+CNC031,20-08-2024,Motor Failure,6,4,Technician E,Replaced motor
+CNC032,22-08-2024,Overheating,4,3,Technician F,Adjusted cooling system
+CNC033,14-08-2024,Vibration Issue,5,2,Technician G,Tightened bearings
+CNC034,29-07-2024,Electrical Failure,7,5,Technician H,Rewired machine
+CNC035,04-08-2024,Spindle Breakdown,8,6,Technician I,Replaced spindle motor
+CNC036,16-08-2024,Motor Failure,6,4,Technician J,Replaced motor
+CNC037,24-08-2024,Overheating,4,3,Technician K,Adjusted cooling system
+CNC038,10-08-2024,Vibration Issue,5,2,Technician L,Tightened bearings
+CNC039,31-07-2024,Electrical Failure,7,5,Technician M,Rewired machine
+CNC040,06-08-2024,Spindle Breakdown,8,6,Technician N,Replaced spindle motor
+CNC041,18-08-2024,Motor Failure,6,4,Technician O,Replaced motor
+CNC042,23-08-2024,Overheating,4,3,Technician P,Adjusted cooling system
+CNC043,12-08-2024,Vibration Issue,5,2,Technician Q,Tightened bearings
+CNC044,27-07-2024,Electrical Failure,7,5,Technician R,Rewired machine
+CNC045,03-08-2024,Spindle Breakdown,8,6,Technician S,Replaced spindle motor
+CNC046,19-08-2024,Motor Failure,6,4,Technician T,Replaced motor
+CNC047,25-08-2024,Overheating,4,3,Technician U,Adjusted cooling system
+CNC048,13-08-2024,Vibration Issue,5,2,Technician V,Tightened bearings
+CNC049,30-07-2024,Electrical Failure,7,5,Technician W,Rewired machine
+CNC050,05-08-2024,Spindle Breakdown,8,6,Technician X,Replaced spindle motor
+CNC051,17-08-2024,Motor Failure,6,4,Technician Y,Replaced motor
+CNC052,26-08-2024,Overheating,4,3,Technician Z,Adjusted cooling system
+CNC053,15-08-2024,Vibration Issue,5,2,Technician A,Tightened bearings
+CNC054,28-07-2024,Electrical Failure,7,5,Technician B,Rewired machine
+CNC055,02-08-2024,Spindle Breakdown,8,6,Technician C,Replaced spindle motor

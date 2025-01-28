@@ -1,0 +1,46 @@
+Machine_ID,Last_Maintenance_Date,Next_Scheduled_Maintenance,Maintenance_Type,Technician_Name,Maintenance_Comments
+CNC006,02-08-2024,16-09-2024,Routine Inspection,Technician F,"Routine oiling, checked bearings"
+CNC007,03-08-2024,17-09-2024,Vibration Control,Technician G,Adjusted vibration damping
+CNC008,12-08-2024,22-09-2024,Temperature Check,Technician H,Inspected cooling system
+CNC009,06-08-2024,19-09-2024,Electrical System,Technician I,Checked electrical components
+CNC010,14-08-2024,23-09-2024,Spindle Inspection,Technician J,Checked spindle alignment
+CNC011,04-08-2024,15-09-2024,Routine Inspection,Technician K,"Routine oiling, checked bearings"
+CNC012,08-08-2024,18-09-2024,Vibration Control,Technician L,Adjusted vibration damping
+CNC013,10-08-2024,20-09-2024,Temperature Check,Technician M,Inspected cooling system
+CNC014,07-08-2024,19-09-2024,Electrical System,Technician N,Checked electrical components
+CNC015,11-08-2024,21-09-2024,Spindle Inspection,Technician O,Checked spindle alignment
+CNC016,05-08-2024,17-09-2024,Routine Inspection,Technician P,"Routine oiling, checked bearings"
+CNC017,13-08-2024,25-09-2024,Vibration Control,Technician Q,Adjusted vibration damping
+CNC018,09-08-2024,23-09-2024,Temperature Check,Technician R,Inspected cooling system
+CNC019,06-08-2024,20-09-2024,Electrical System,Technician S,Checked electrical components
+CNC020,15-08-2024,26-09-2024,Spindle Inspection,Technician T,Checked spindle alignment
+CNC021,01-08-2024,15-09-2024,Routine Inspection,Technician U,"Routine oiling, checked bearings"
+CNC022,03-08-2024,17-09-2024,Vibration Control,Technician V,Adjusted vibration damping
+CNC023,12-08-2024,22-09-2024,Temperature Check,Technician W,Inspected cooling system
+CNC024,05-08-2024,19-09-2024,Electrical System,Technician X,Checked electrical components
+CNC025,14-08-2024,24-09-2024,Spindle Inspection,Technician Y,Checked spindle alignment
+CNC026,04-08-2024,16-09-2024,Routine Inspection,Technician Z,"Routine oiling, checked bearings"
+CNC027,10-08-2024,20-09-2024,Vibration Control,Technician A,Adjusted vibration damping
+CNC028,11-08-2024,21-09-2024,Temperature Check,Technician B,Inspected cooling system
+CNC029,06-08-2024,19-09-2024,Electrical System,Technician C,Checked electrical components
+CNC030,15-08-2024,26-09-2024,Spindle Inspection,Technician D,Checked spindle alignment
+CNC031,02-08-2024,18-09-2024,Routine Inspection,Technician E,"Routine oiling, checked bearings"
+CNC032,03-08-2024,19-09-2024,Vibration Control,Technician F,Adjusted vibration damping
+CNC033,10-08-2024,20-09-2024,Temperature Check,Technician G,Inspected cooling system
+CNC034,05-08-2024,19-09-2024,Electrical System,Technician H,Checked electrical components
+CNC035,13-08-2024,23-09-2024,Spindle Inspection,Technician I,Checked spindle alignment
+CNC036,04-08-2024,17-09-2024,Routine Inspection,Technician J,"Routine oiling, checked bearings"
+CNC037,12-08-2024,25-09-2024,Vibration Control,Technician K,Adjusted vibration damping
+CNC038,08-08-2024,21-09-2024,Temperature Check,Technician L,Inspected cooling system
+CNC039,07-08-2024,22-09-2024,Electrical System,Technician M,Checked electrical components
+CNC040,15-08-2024,26-09-2024,Spindle Inspection,Technician N,Checked spindle alignment
+CNC041,03-08-2024,17-09-2024,Routine Inspection,Technician O,"Routine oiling, checked bearings"
+CNC042,09-08-2024,23-09-2024,Vibration Control,Technician P,Adjusted vibration damping
+CNC043,11-08-2024,24-09-2024,Temperature Check,Technician Q,Inspected cooling system
+CNC044,08-08-2024,21-09-2024,Electrical System,Technician R,Checked electrical components
+CNC045,14-08-2024,25-09-2024,Spindle Inspection,Technician S,Checked spindle alignment
+CNC046,05-08-2024,18-09-2024,Routine Inspection,Technician T,"Routine oiling, checked bearings"
+CNC047,12-08-2024,25-09-2024,Vibration Control,Technician U,Adjusted vibration damping
+CNC048,09-08-2024,22-09-2024,Temperature Check,Technician V,Inspected cooling system
+CNC049,10-08-2024,24-09-2024,Electrical System,Technician W,Checked electrical components
+CNC050,13-08-2024,26-09-2024,Spindle Inspection,Technician X,Checked spindle alignment
