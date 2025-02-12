@@ -1,0 +1,46 @@
+Feedback_ID,Product_ID,Customer_Rating,Feedback_Date,Comments
+FB006,INV006,4.3,30-01-2024,"Satisfied, decent packaging."
+FB007,INV007,3.9,01-02-2024,Product is good but arrived late.
+FB008,INV008,4.6,03-02-2024,"Highly effective, great quality."
+FB009,INV009,3.8,05-02-2024,"Quality is fine, delivery slow."
+FB010,INV010,4.9,07-02-2024,"Excellent, will buy again."
+FB011,INV011,4.4,09-02-2024,"Effective product, prompt service."
+FB012,INV012,4,11-02-2024,Good value for money.
+FB013,INV013,4.7,13-02-2024,"Very satisfied, timely delivery."
+FB014,INV014,3.6,15-02-2024,"Decent quality, packaging issue."
+FB015,INV015,4.2,17-02-2024,Satisfied with product.
+FB016,INV016,4.8,19-02-2024,"Excellent results, fast delivery."
+FB017,INV017,3.9,21-02-2024,"Product was okay, delayed delivery."
+FB018,INV018,4.6,23-02-2024,Great quality and timely delivery.
+FB019,INV019,4.1,25-02-2024,Good but took time to deliver.
+FB020,INV020,4.9,27-02-2024,"Highly effective, great service."
+FB021,INV021,4.5,01-03-2024,Product met expectations.
+FB022,INV022,4.2,03-03-2024,"Satisfied, packaging could improve."
+FB023,INV023,4.8,05-03-2024,"Amazing quality, quick delivery."
+FB024,INV024,3.7,07-03-2024,"Quality was okay, delivery late."
+FB025,INV025,4.4,09-03-2024,"Good product, timely arrival."
+FB026,INV026,4.6,11-03-2024,Excellent quality and packaging.
+FB027,INV027,3.8,13-03-2024,"Product is fine, delayed delivery."
+FB028,INV028,4.7,15-03-2024,"Very effective, recommended."
+FB029,INV029,4,17-03-2024,"Decent product, slow delivery."
+FB030,INV030,4.9,19-03-2024,Exceeded expectations.
+FB031,INV031,4.3,21-03-2024,"Good value, arrived on time."
+FB032,INV032,4.5,23-03-2024,"Effective, great delivery service."
+FB033,INV033,3.9,25-03-2024,"Quality okay, could be better."
+FB034,INV034,4.8,27-03-2024,"Highly recommend, excellent product."
+FB035,INV035,4.1,29-03-2024,"Good product, slight delay."
+FB036,INV036,4.7,31-03-2024,"Quality as expected, fast delivery."
+FB037,INV037,3.6,02-04-2024,"Average quality, delayed shipping."
+FB038,INV038,4.4,04-04-2024,"Satisfied, quick delivery."
+FB039,INV039,4,06-04-2024,"Decent product, slow shipping."
+FB040,INV040,4.9,08-04-2024,"Excellent, best quality."
+FB041,INV041,4.3,10-04-2024,"Good quality, fast service."
+FB042,INV042,4.1,12-04-2024,Met expectations.
+FB043,INV043,4.8,14-04-2024,Outstanding product.
+FB044,INV044,3.7,16-04-2024,"Product was okay, late arrival."
+FB045,INV045,4.5,18-04-2024,"Quality product, quick service."
+FB046,INV046,4.2,20-04-2024,Satisfied with purchase.
+FB047,INV047,3.9,22-04-2024,"Product quality fine, late arrival."
+FB048,INV048,4.6,24-04-2024,Effective and well-packaged.
+FB049,INV049,4.5,26-04-2024,Exceeded expectations.
+FB050,INV050,4,28-04-2024,"Satisfied, delivery could improve."

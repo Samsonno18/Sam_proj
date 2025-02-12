@@ -1,0 +1,46 @@
+﻿Product_ID,Product_Name,Quantity_Available,Reorder_Level,Warehouse_Location,Supplier_ID
+INV006,Cough Syrup,1300,500,Mumbai,SUP006
+INV007,Pain Relief Spray,700,300,Kolkata,SUP007
+INV008,Antacid Tablets,1200,400,Noida,SUP008
+INV009,Multivitamin Tablets,1400,500,Lucknow,SUP009
+INV010,Calcium Tablets,900,350,Ahmedabad,SUP010
+INV011,Cold Relief Syrup,600,250,Indore,SUP011
+INV012,Zinc Tablets,1100,400,Coimbatore,SUP012
+INV013,Omega 3 Capsules,800,300,Surat,SUP013
+INV014,Iron Tablets,1500,600,Jaipur,SUP014
+INV015,B Complex Capsules,750,300,Bhopal,SUP015
+INV016,Diabetic Tablets,1400,500,Vadodara,SUP016
+INV017,Liver Tonic,650,250,Ludhiana,SUP017
+INV018,Vitamin D Syrup,1000,400,Patna,SUP018
+INV019,Anti-Fungal Cream,800,300,Agra,SUP019
+INV020,Energy Boost Tablets,1200,450,Mysore,SUP020
+INV021,Herbal Digestive Capsules,600,250,Amritsar,SUP021
+INV022,Antiseptic Cream,1000,400,Ranchi,SUP022
+INV023,Cough Tablets,1100,500,Nashik,SUP023
+INV024,Skin Allergy Cream,900,300,Varanasi,SUP024
+INV025,Muscle Pain Balm,1200,400,Bhubaneswar,SUP025
+INV026,Herbal Hair Oil,1500,600,Kochi,SUP026
+INV027,Aloe Vera Gel,800,350,Jodhpur,SUP027
+INV028,Anti-Dandruff Shampoo,1300,500,Vijayawada,SUP028
+INV029,Vitamin B12 Tablets,700,250,Gwalior,SUP029
+INV030,Eye Drops,1200,400,Raipur,SUP030
+INV031,Ear Drops,900,300,Guwahati,SUP031
+INV032,Glucose Powder,1000,400,Kota,SUP032
+INV033,Baby Lotion,800,300,Howrah,SUP033
+INV034,Herbal Tea,1300,500,Meerut,SUP034
+INV035,Omega 3 Fish Oil,750,300,Jabalpur,SUP035
+INV036,Vitamin E Cream,1100,450,Hubli,SUP036
+INV037,Joint Pain Tablets,850,300,Tiruchirappalli,SUP037
+INV038,Herbal Cough Syrup,1200,400,Udaipur,SUP038
+INV039,Blood Pressure Tablets,900,350,Aurangabad,SUP039
+INV040,Vitamin B Complex Syrup,700,250,Salem,SUP040
+INV041,Skin Moisturizer,1100,450,Gorakhpur,SUP041
+INV042,Asthma Inhaler,1000,400,Mangalore,SUP042
+INV043,Antibacterial Soap,800,300,Siliguri,SUP043
+INV044,Blood Sugar Tablets,900,350,Warangal,SUP044
+INV045,Vitamin A Drops,1200,500,Guntur,SUP045
+INV046,Herbal Shampoo,1300,450,Bareilly,SUP046
+INV047,Cold Balm,800,300,Aligarh,SUP047
+INV048,Kids Multivitamin Gummies,900,350,Moradabad,SUP048
+INV049,Calcium Syrup,1100,450,Thiruvananthapuram,SUP049
+INV050,Protein Powder,1000,400,Jalandhar,SUP050

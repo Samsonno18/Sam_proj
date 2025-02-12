@@ -1,0 +1,46 @@
+﻿Supplier_ID,Supplier_Name,Lead_Time_Days,Quality_Rating,Location,Material_Type
+SUP006,PharmaPlus,14,4.3,Chennai,Active Ingredients
+SUP007,PackWell,9,4.5,Kolkata,Packaging
+SUP008,ShipFast,7,4.8,Noida,Containers
+SUP009,ChemHealth,11,4.1,Lucknow,Active Ingredients
+SUP010,RawMaterialsHub,19,4.4,Ahmedabad,Raw Materials
+SUP011,QuickChem,13,4.6,Indore,Active Ingredients
+SUP012,PackMakers,10,4.7,Coimbatore,Packaging
+SUP013,SpeedyShip,8,4.9,Surat,Containers
+SUP014,ChemSource,15,4.2,Jaipur,Active Ingredients
+SUP015,EssentialMed,18,4.5,Bhopal,Raw Materials
+SUP016,ProChem,12,4.6,Vadodara,Active Ingredients
+SUP017,PackIt,9,4.4,Ludhiana,Packaging
+SUP018,QuickShip,8,4.8,Patna,Containers
+SUP019,ChemReliable,10,4.3,Agra,Active Ingredients
+SUP020,FastPack,7,4.6,Mysore,Packaging
+SUP021,HealthChemicals,16,4.5,Amritsar,Raw Materials
+SUP022,SpeedLogistics,8,4.7,Ranchi,Containers
+SUP023,EssentialChem,11,4.1,Nashik,Active Ingredients
+SUP024,PackPro,9,4.4,Varanasi,Packaging
+SUP025,ChemConnect,14,4.3,Bhubaneswar,Active Ingredients
+SUP026,QualityPack,12,4.5,Kochi,Packaging
+SUP027,MedLogistics,7,4.9,Jodhpur,Containers
+SUP028,ChemCure,13,4.2,Vijayawada,Active Ingredients
+SUP029,RapidMaterials,10,4.5,Gwalior,Raw Materials
+SUP030,PackExcellence,8,4.7,Raipur,Packaging
+SUP031,ChemSupply,15,4.4,Guwahati,Active Ingredients
+SUP032,PackSolutions,10,4.3,Kota,Packaging
+SUP033,ShipPro,9,4.8,Howrah,Containers
+SUP034,ActiveChem,11,4.2,Meerut,Active Ingredients
+SUP035,PharmaBase,13,4.5,Jabalpur,Raw Materials
+SUP036,ChemBest,14,4.3,Hubli,Active Ingredients
+SUP037,FastPackers,7,4.6,Tiruchirappalli,Packaging
+SUP038,EssentialLog,8,4.9,Udaipur,Containers
+SUP039,PrimeChem,12,4.1,Aurangabad,Active Ingredients
+SUP040,PackPros,10,4.3,Salem,Packaging
+SUP041,ShipLogistics,9,4.7,Gorakhpur,Containers
+SUP042,ChemWarehouse,16,4.2,Mangalore,Raw Materials
+SUP043,PharmaDirect,13,4.4,Siliguri,Active Ingredients
+SUP044,PackMasters,10,4.3,Warangal,Packaging
+SUP045,RapidShip,7,4.8,Guntur,Containers
+SUP046,ChemElite,14,4.5,Bareilly,Active Ingredients
+SUP047,EssentialLogi,10,4.7,Aligarh,Raw Materials
+SUP048,QuickContainer,9,4.9,Moradabad,Containers
+SUP049,HealthEssentials,11,4.1,Thiruvananthapuram,Active Ingredients
+SUP050,QualitySupply,12,4.5,Jalandhar,Packaging
